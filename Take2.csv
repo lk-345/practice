@@ -1,9 +1,10 @@
-﻿PlaceName,Latitude,Longitude,VenueType
-Charlene's,29.967376,-90.057076,Bar
-UpStairs Lounge,29.953569,-90.067565,Bar
-Cafe Lafitte in Exile,29.960372,-90.064201,Bar
-Diane's,29.960423,-90.068186,Bar
-Wanda's,29.95412,-90.068435,Bar
-Faubourg-Marigny books,29.96648,-90.057983,Bookstore
-Faerie Playhouse,29.967514,-90.066305,Meetinghouse
+﻿PlaceName,Latitude,Longitude,VenueType,StreetAddress
+Charlene's,29.967376,-90.057076,Bar,
+UpStairs Lounge,29.953569,-90.067565,Bar,
+Cafe Lafitte in Exile,29.960372,-90.064201,Bar,
+Diane's,29.960423,-90.068186,Bar,
+Wanda's,29.95412,-90.068435,Bar,
+Faubourg-Marigny books,29.96648,-90.057983,Bookstore,
+Faerie Playhouse,29.967514,-90.066305,Meetinghouse,
+Miss Dixie's Bar of Music,29.958793,-90.065688,Bar,701 Bourbon St
 
